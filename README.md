@@ -245,3 +245,17 @@ echo "10 20 30" | ./funcao
 Saída esperada: `60`
 
 > **Dica:** os arquivos do Windows ficam acessíveis no WSL em `/mnt/c/`. Por exemplo, `C:\Users\SeuNome` é `/mnt/c/Users/SeuNome`.
+
+---
+
+<br>
+
+> *— Se um homem criar uma máquina para calcular, que mal há nisso?*
+>
+> *— Você pensa que o perigo estava nas engrenagens e nos circuitos, garoto? O problema nunca foram as máquinas superarem os homens em malícia. O perigo real foi que os homens entregaram sua capacidade de pensar às máquinas.*
+>
+> *— Eles se tornaram preguiçosos?*
+>
+> *— Pior do que isso. Eles se tornaram escravos por escolha própria. Ao permitirem que as máquinas decidissem, que as máquinas calculassem o futuro e removessem o peso das escolhas, os seres humanos abdicaram de sua própria alma. Quem tinha as máquinas mais complexas governava os outros. A mente humana decaiu, atrofiou. Nós nos transformamos em rebanhos dependentes de metal e silício.*
+>
+> <p align="right"><b>Dune</b>, Frank Herbert</p>
