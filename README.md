@@ -256,6 +256,6 @@ Saída esperada: `60`
 >
 > *— Eles se tornaram preguiçosos?*
 >
-> *— Pior do que isso. Eles se tornaram escravos por escolha própria. Ao permitirem que as máquinas decidissem, que as máquinas calculassem o futuro e removessem o peso das escolhas, os seres humanos abdicaram de sua própria alma. Quem tinha as máquinas mais complexas governava os outros. A mente humana decaiu, atrofiou. Nós nos transformamos em rebanhos dependentes de metal e silício.*
+> *— Pior do que isso. Eles se tornaram escravos por escolha própria. Ao permitirem que as máquinas decidissem, que as máquinas calculassem o futuro e removessem o peso das escolhas, os seres humanos abdicaram de sua própria alma. Quem tinha as máquinas mais complexas governava os outros.* ***A mente humana decaiu, atrofiou. Nós nos transformamos em rebanhos dependentes de metal e silício.***
 >
 > <p align="right"><b>Dune</b>, Frank Herbert</p>
