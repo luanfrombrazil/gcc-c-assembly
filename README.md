@@ -218,8 +218,8 @@ ret
 
 ```bash
 # 1. Clone o repositório (ou crie os arquivos com nano/vim)
-git clone <url-deste-repositorio>
-cd gcc_c_assembly
+git clone https://github.com/luanfrombrazil/gcc-c-assembly.git
+cd gcc-c-assembly
 
 # 2. Compile
 gcc -m32 funcao.c funcao.s -o funcao
